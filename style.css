@@ -1,0 +1,11 @@
+
+.one::selection
+{
+  background: black;
+  color:white;
+}
+.two::selection
+{
+    background:blueviolet;
+    color:white;
+}
